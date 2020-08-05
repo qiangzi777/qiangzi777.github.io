@@ -7,7 +7,9 @@
 ## 查字典APP
 孩子学语文查字典的神器
 孩子在学语文的时候，尤其是学文言，查字典很费时间，这款APP就是来帮助宝贝们的。用手机或者平板扫一扫，就可以查看读音、释义、组词、造句等。还可以收录到生字本进行复习。还将陆续添加新功能。
-[点击下载](https://github.com/qiangzi777/qiangzi777.github.io/edit/master/README.md)
+![Image](https://github.com/qiangzi777/qiangzi777.github.io/edit/search_dictionary_app/app_launcher_icon.png)
+
+- [V1.0下载](https://github.com/qiangzi777/qiangzi777.github.io/edit/search_dictionary_app/search_dictionary_v1.0.apk)
 
 
 ## 还没有编辑完，有时间再继续。。。
